@@ -2,9 +2,7 @@ package h2;
 
 public class H2_main {
 	public static void main(String[] args) {
-		int[] a = null;
-		int[] b = null;
-		System.out.println(compareArrays(a, b));
+		
 	}
 
 	public static boolean compareArrays(int[] a, int[] b) {

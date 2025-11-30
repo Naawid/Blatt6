@@ -2,10 +2,7 @@ package h3;
 
 public class H3_main {
 	public static void main(String[] args) {
-		int[] a = null;
-		int[] c = null;
 
-		System.out.println(compareArraysVal(a, c));
 	}
 
 	public static boolean compareArraysVal(int[] a, int[] b) {
